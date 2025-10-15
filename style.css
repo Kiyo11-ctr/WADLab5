@@ -147,9 +147,11 @@ p {
   cursor: pointer;
   transition: var(--transition);
   font-family: inherit;
+  margin-bottom: 10px;
   font-size: 0.9rem;
   text-decoration: none;
   text-align: center;
+ 
 }
 
 .btn:hover {
